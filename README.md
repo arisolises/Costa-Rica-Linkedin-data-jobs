@@ -10,3 +10,6 @@ How it is achieved:
 - Web scrapping using selenium package with python to extract all the information.
 - NLP process with NLTK and SPACY to extract the information of the skills described in the job description.
 - Data visualization using Tableau
+
+
+For the dashborad go to : https://public.tableau.com/app/profile/ariel.solis2623/viz/LinkeniddatajobsforCostaRica/Dashboard1?publish=yes
